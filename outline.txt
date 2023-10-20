@@ -1,0 +1,7 @@
+Just a bit of an outline of what I am thinking.
+
+-Main GUI
+-Subsites with various social links
+-Interactive with YouTube and Twitch streams
+
+May seem basic, but the code is quite complicated (In my oppinion)

@@ -1,0 +1,7 @@
+Steps of process for updating the site
+
+1. Create the main landing page
+2. Make the store redirect page
+3. Make the YouTube and Twitch links with active widgets
+4. Make the interactive portion of the site
+5. Integrate the site with the YouTube and Twitch API's
